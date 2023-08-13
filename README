@@ -1,0 +1,16 @@
+To run this code, please follow the steps : 
+ 1. Go to the 'Terminal' 
+ 2. Go to the folder -> cd calculator_test
+ 3. Run command -> 'ruby calculator.rb'
+
+NOTES: 
+
+You will get the promts like: 
+  "Enter an expression (operand operator operand): (or 'exit' to quit):"
+  -> This means enter the expression like 2 + 2 to perform calculation 
+  -> OR enter 'exit' to quit from the program. 
+
+This code answers in the fraction not in float. 
+This code does not include the unit tests(TDD).
+
+
